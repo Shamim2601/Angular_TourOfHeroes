@@ -11,4 +11,6 @@ export class HeroesComponent {
     id: 1,
     name: 'Windstorm'
   };
+
+  value = 2.45;
 }
