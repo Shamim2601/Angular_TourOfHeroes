@@ -39,6 +39,9 @@ h1 {
     color: #aaa;
     cursor: auto;
   }
+  html { 
+    background-color: rgb(47, 215, 227); 
+  }
   
   /* everywhere else */
   * {
